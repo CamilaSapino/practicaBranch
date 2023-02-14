@@ -1,2 +1,6 @@
 cam1
+<<<<<<< HEAD
 Hola
+=======
+hola lu
+>>>>>>> 8e97ad668d793b4c7b70775277414d1aa82b716d
