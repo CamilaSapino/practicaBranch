@@ -1,3 +1,7 @@
 Hola cami
+<<<<<<< HEAD
 Como andas?
 Ahora sos porteña?
+=======
+hola lu
+>>>>>>> c09e757636a27e75abefc088e8f24d1fefb7d1e5
